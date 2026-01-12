@@ -1,5 +1,5 @@
 # DPCFFormer: Diverse Pooling and Cross-Feature Fusion Transformer for Hyperspectral Image Classification
-Under Review
+
 ___________
 
 <img src="./fig/model.png" alt="alt text" width="600"/>
