@@ -2,19 +2,19 @@
 Under Review
 ___________
 
-<img src="./fig/ESSPFormer.png" alt="alt text" width="600"/>
+<img src="./fig/DPCFFormer.png" alt="alt text" width="600"/>
 
 **Figure 1: Overall block diagram of the DPCFFormer mode.**
 
-<img src="./fig/SCHPFP.png" alt="alt text" width="600"/>
+<img src="./fig/SCsP.png" alt="alt text" width="600"/>
 
 **Figure 2: Flowchart of SCSP module.**
 
-<img src="./fig/SSGPCF.png" alt="alt text" width="600"/>
+<img src="./fig/GPCF.png" alt="alt text" width="600"/>
 
 **Figure 3: Flowchart of the GPCF module.**
 
-<img src="./fig/SPPCF.png" alt="alt text" width="600"/>
+<img src="./fig/PPCF.png" alt="alt text" width="600"/>
 
 **Figure 4: Flowchart of the PPCF module.**
 
