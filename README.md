@@ -1,22 +1,22 @@
-# ES<sup>2</sup>PFormer: Enhanced Spectral-Spatial Pooling
+# DPCFFormer: Diverse Pooling and Cross-Feature Fusion Transformer for Hyperspectral Image Classification
 Under Review
 ___________
 
 <img src="./fig/ESSPFormer.png" alt="alt text" width="600"/>
 
-**Figure 1: Overall block diagram of the ES<sup>2</sup>PFormer mode.**
+**Figure 1: Overall block diagram of the DPCFFormer mode.**
 
 <img src="./fig/SCHPFP.png" alt="alt text" width="600"/>
 
-**Figure 2: Flowchart of SCHPFP module.**
+**Figure 2: Flowchart of SCSP module.**
 
 <img src="./fig/SSGPCF.png" alt="alt text" width="600"/>
 
-**Figure 3: Flowchart of the SSGPCF module.**
+**Figure 3: Flowchart of the GPCF module.**
 
 <img src="./fig/SPPCF.png" alt="alt text" width="600"/>
 
-**Figure 4: Flowchart of the SPPCF module.**
+**Figure 4: Flowchart of the PPCF module.**
 
 
 Requirements
