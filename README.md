@@ -6,7 +6,7 @@ ___________
 
 **Figure 1: Overall block diagram of the DPCFFormer mode.**
 
-<img src="./fig/SCsP.png" alt="alt text" width="600"/>
+<img src="./fig/SCSP.png" alt="alt text" width="600"/>
 
 **Figure 2: Flowchart of SCSP module.**
 
