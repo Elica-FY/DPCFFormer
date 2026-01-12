@@ -2,7 +2,7 @@
 Under Review
 ___________
 
-<img src="./fig/DPCFFormer.png" alt="alt text" width="600"/>
+<img src="./fig/model.png" alt="alt text" width="600"/>
 
 **Figure 1: Overall block diagram of the DPCFFormer mode.**
 
